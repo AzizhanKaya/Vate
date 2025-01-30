@@ -9,8 +9,8 @@ The primary goal of the project is to bring developers together under one roof, 
  * https://http://vate.world
 
 ## Repositories
-* [Backend/Rust](https://github.com/AzizhanKaya/Vate-backend).
-* [Frontend/React](https://github.com/AzizhanKaya/Vate-frontend).
+* [Backend/Rust 🦀](https://github.com/AzizhanKaya/Vate-backend).
+* [Frontend/React ⚛️](https://github.com/AzizhanKaya/Vate-frontend).
 
 ## Showcase
 ![image](https://github.com/user-attachments/assets/368147e6-080f-4f07-8a00-cadf8f591c9e)
