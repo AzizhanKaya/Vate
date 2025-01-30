@@ -6,7 +6,7 @@ The primary goal of the project is to bring developers together under one roof, 
 
 ###### You can also create your post-chain on:
  * https://vate-3.github.io
- * https://http://vate.world
+ * https://vate.world
 
 ## Repositories
 * [Backend/Rust 🦀](https://github.com/AzizhanKaya/Vate-backend).
